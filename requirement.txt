@@ -1,0 +1,13 @@
+# Project Requirements
+
+Jenkins >= 2.x
+Docker >= 20.x
+Go >= 1.18
+Git >= 2.x
+
+# Jenkins Plugins
+
+Pipeline
+Docker Pipeline
+Git Plugin
+Pipeline: Stage View
